@@ -30,47 +30,69 @@ Bacharelado em Engenharia de Computação no Centro de Informática (CIn) - UFPE
 
 ## 💼 Experiência Profissional
 
-### 🏢 **MDEL Soluções Industriais** – *Full-stack Developer*  
-📍 *Ago 2022 – Presente (2 anos 11 meses)*  
-- Desenvolvimento de APIs RESTful com Django/Django REST Framework.
-- Integração com front-end (Vue.js e AngularJS).
-- Docker, CI/CD, PostgreSQL, Linux.
-- Redução de até 40% no tempo de resposta de endpoints.
-- Melhoria na entrega de features em 30%.
+### 🏢 MDEL Soluções Industriais — *Full Stack Developer*  
+**Ago 2022 – Presente · Recife, PE**
 
+- Desenvolvi e mantive APIs RESTful robustas com Django REST Framework aplicando princípios SOLID, arquitetura limpa e práticas de segurança (CSRF, XSS, SQL Injection).
+- Modelei e otimizei queries SQL complexas, reduzindo em até 40% o tempo de resposta de endpoints críticos usados em ambiente de produção com milhares de acessos diários.
+- Configurei pipelines CI/CD com Git e Docker, acelerando o ciclo de testes, builds e deploys automatizados, reduzindo o tempo de entrega de features em 30%.
+- Liderei a refatoração de sistemas legados com foco em modularidade, escalabilidade horizontal e uso eficiente de recursos computacionais.
+- Atuei em estreita colaboração com times de frontend (Vue.js e AngularJS) para garantir integração fluida, aumentando a qualidade da experiência do usuário final.
+
+🔧 **Tecnologias utilizadas:**  
+Python · Django · Django REST Framework · PostgreSQL · AngularJS · Vue.js · Docker · Git · CI/CD · Linux
 ---
 
-### ⚖️ **Escritório de Advocacia** – *Desenvolvedor Python / RPA*  
-📍 *Ago 2020 – Presente (4 anos 11 meses)*  
-- Automação de contratos e andamentos jurídicos (LegalAutomation).
-- Integração com APIs da Clicksign, DocuSign, Telegram.
-- Redução do tempo de cadastro de 4min30s para 38s.
-- Sistema 24/7 na AWS com alta confiabilidade.
+### ⚖️ Escritório de Advocacia — *Desenvolvedor Python / RPA*  
+**Ago 2020 – Presente · Recife, PE**
 
+- Concebi e desenvolvi o **LegalAutomation**, sistema completo para gestão de contratos e andamentos jurídicos, promovendo automação de processos manuais e burocráticos.
+- Integrei com APIs externas como Clicksign, DocuSign e Telegram para gestão de assinatura e envio de notificações em tempo real — garantindo confiabilidade e rastreabilidade jurídica.
+- Reduzi o tempo médio de cadastramento de contratos de 4min30s para 38 segundos, aumentando a produtividade da equipe jurídica em mais de 500%.
+- Desenvolvi validadores de dados inteligentes com Pandas, minimizando erros manuais e retrabalho em planilhas extensas.
+- Otimizei a infraestrutura na AWS para garantir disponibilidade contínua, com custos sob controle e operação ininterrupta 24/7.
+
+🔧 **Tecnologias utilizadas:**  
+Python · Pandas · AWS · Docker · Telegram API · Clicksign API · DocuSign API · Excel · Git
 ---
 
-### 💧 **Foz Sustentável** – *Desenvolvedor Full Stack*  
-📍 *Jan 2021 – Nov 2024*  
-- Plataforma de gestão hídrica (Vue.js + Firebase/Firestore).
-- Dashboards em tempo real, permissões por papel.
-- Integração com IoT e automações de contas.
-- Otimização de 25% nas consultas e escalabilidade do sistema.
+### 💧 Foz Sustentável — *Full Stack Developer*  
+**Jan 2021 – Nov 2024 · Recife, PE**
 
+- Desenvolvi uma plataforma web para monitoramento hídrico com Vue.js e Firebase, permitindo controle administrativo e acesso em tempo real a sensores IoT.
+- Modelei banco de dados NoSQL com subcoleções e regras de segurança no Firestore, aumentando a integridade e performance de leitura.
+- Implementei dashboards interativos com Chart.js, otimizando a visualização de consumo e faturas para os clientes finais.
+- Automatizei a geração de contas, reduzindo significativamente o esforço humano e tempo de processamento de dados.
+- Colaborei na integração com sensores físicos (IoT), entregando dados confiáveis em painéis de controle acessados por gestores e usuários finais.
+
+🔧 **Tecnologias utilizadas:**  
+Vue.js · Node.js · Firebase · Firestore · Google Cloud Platform · HTML5 · CSS · Chart.js · Git
 ---
 
-### 🏛️ **Método Ambiental** – *Full Stack Developer*  
-📍 *Jan 2021 – Dez 2021*  
-- Portal público de licenciamento urbano (Laravel + Vue.js).
-- Otimização de processos, relatórios dinâmicos e segurança (OWASP).
-- Redução de até 30% no tempo médio de análise de processos.
+### 🏛️ Método Ambiental — *Desenvolvedor Full Stack*  
+**Jan 2021 – Dez 2021 · Recife, PE**
 
+- Desenvolvi e otimizei o portal de licenciamento público da Prefeitura de Jaboatão dos Guararapes, focado no atendimento direto ao cidadão.
+- Automatizei fluxos burocráticos e etapas de análise, reduzindo o tempo médio de processamento de 30 dias para 20 dias — melhoria de eficiência em 33%.
+- Implementei relatórios dinâmicos utilizados por mais de 90 usuários/dia com filtros personalizados e estatísticas em tempo real.
+- Fortaleci os mecanismos de segurança com validação de entrada, autenticação reforçada e mitigação de vulnerabilidades conforme o OWASP Top 10.
+- Estruturei banco MySQL com índices compostos, reduzindo tempo de carregamento de processos em até 20%.
+
+🔧 **Tecnologias utilizadas:**  
+Laravel · PHP · MySQL · JavaScript · Vue.js · HTML5 · CSS · Git
 ---
 
-### 🎯 **EliteSport (Casa de Apostas)** – *Full Stack Developer*  
-📍 *Jan 2019 – Dez 2020*  
-- Plataforma completa de apostas em PHP (MVC) + Vue.js.
-- APIs RESTful, MySQL, autenticação e painel administrativo.
-- Otimização de consultas e caching → 40% de melhoria em desempenho.
+### 🎯 EliteSport (Casa de Apostas) — *Full Stack Developer*  
+**Jan 2019 – Dez 2020 · Recife, PE**
+
+- Desenvolvi do zero a plataforma de apostas esportivas, atuando desde a modelagem do banco de dados até a interface de usuário final.
+- Implementei arquitetura MVC em PHP, separando camadas de lógica de negócio, aumentando a testabilidade e clareza do código.
+- Utilizei Vue.js com Axios para integração com APIs RESTful, garantindo uma experiência fluida e responsiva.
+- Modelei tabelas críticas (usuários, apostas, transações), aplicando índices otimizados e estratégias de caching — com ganho de até 40% no tempo de resposta sob alta carga.
+- Realizei simulações com centenas de apostas simultâneas e testes de estresse para validar estabilidade da aplicação em produção.
+
+🔧 **Tecnologias utilizadas:**  
+PHP · Vue.js · MySQL · HTML5 · CSS3 · JavaScript · Git · MVC
 
 ---
 
