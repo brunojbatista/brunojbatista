@@ -107,3 +107,13 @@ PHP · Vue.js · MySQL · HTML5 · CSS3 · JavaScript · Git · MVC
 - 📱 [+55 (81) 9 9929-0698](tel:+5581999290698) — WhatsApp / Telegram  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bjnb)  
 - 📷 [Instagram](https://www.instagram.com/brunojnbatista/)
+
+---
+
+## 🤝 Como posso ajudar sua empresa?
+
+* Automatizar tarefas repetitivas com Python (RPA)
+* Criar APIs performáticas e seguras com Django, Flask ou FastAPI
+* Integrar front-ends modernos com back-ends escaláveis
+* Refatorar sistemas legados para alta performance e segurança
+* Atuar em times ágeis com foco em entrega de valor
