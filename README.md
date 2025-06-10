@@ -75,7 +75,7 @@ Bacharelado em Engenharia de Computação
 
 ## 📊 GitHub Stats
 
-![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bjnb&show_icons=true&theme=radical)
+![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
 
 ---
 
