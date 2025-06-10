@@ -39,8 +39,9 @@ Bacharelado em Engenharia de Computação no Centro de Informática (CIn) - UFPE
 - Liderei a refatoração de sistemas legados com foco em modularidade, escalabilidade horizontal e uso eficiente de recursos computacionais.
 - Atuei em estreita colaboração com times de frontend (Vue.js e AngularJS) para garantir integração fluida, aumentando a qualidade da experiência do usuário final.
 
-🔧 **Tecnologias utilizadas:**  
+**🔧 Tecnologias utilizadas:**  
 Python · Django · Django REST Framework · PostgreSQL · AngularJS · Vue.js · Docker · Git · CI/CD · Linux
+
 ---
 
 ### ⚖️ Escritório de Advocacia — *Desenvolvedor Python / RPA*  
@@ -52,8 +53,9 @@ Python · Django · Django REST Framework · PostgreSQL · AngularJS · Vue.js �
 - Desenvolvi validadores de dados inteligentes com Pandas, minimizando erros manuais e retrabalho em planilhas extensas.
 - Otimizei a infraestrutura na AWS para garantir disponibilidade contínua, com custos sob controle e operação ininterrupta 24/7.
 
-🔧 **Tecnologias utilizadas:**  
+**🔧 Tecnologias utilizadas:**  
 Python · Pandas · AWS · Docker · Telegram API · Clicksign API · DocuSign API · Excel · Git
+
 ---
 
 ### 💧 Foz Sustentável — *Full Stack Developer*  
@@ -65,8 +67,9 @@ Python · Pandas · AWS · Docker · Telegram API · Clicksign API · DocuSign A
 - Automatizei a geração de contas, reduzindo significativamente o esforço humano e tempo de processamento de dados.
 - Colaborei na integração com sensores físicos (IoT), entregando dados confiáveis em painéis de controle acessados por gestores e usuários finais.
 
-🔧 **Tecnologias utilizadas:**  
+**🔧 Tecnologias utilizadas:**  
 Vue.js · Node.js · Firebase · Firestore · Google Cloud Platform · HTML5 · CSS · Chart.js · Git
+
 ---
 
 ### 🏛️ Método Ambiental — *Desenvolvedor Full Stack*  
@@ -78,8 +81,9 @@ Vue.js · Node.js · Firebase · Firestore · Google Cloud Platform · HTML5 · 
 - Fortaleci os mecanismos de segurança com validação de entrada, autenticação reforçada e mitigação de vulnerabilidades conforme o OWASP Top 10.
 - Estruturei banco MySQL com índices compostos, reduzindo tempo de carregamento de processos em até 20%.
 
-🔧 **Tecnologias utilizadas:**  
+**🔧 Tecnologias utilizadas:**  
 Laravel · PHP · MySQL · JavaScript · Vue.js · HTML5 · CSS · Git
+
 ---
 
 ### 🎯 EliteSport (Casa de Apostas) — *Full Stack Developer*  
@@ -91,7 +95,7 @@ Laravel · PHP · MySQL · JavaScript · Vue.js · HTML5 · CSS · Git
 - Modelei tabelas críticas (usuários, apostas, transações), aplicando índices otimizados e estratégias de caching — com ganho de até 40% no tempo de resposta sob alta carga.
 - Realizei simulações com centenas de apostas simultâneas e testes de estresse para validar estabilidade da aplicação em produção.
 
-🔧 **Tecnologias utilizadas:**  
+**🔧 Tecnologias utilizadas:**  
 PHP · Vue.js · MySQL · HTML5 · CSS3 · JavaScript · Git · MVC
 
 ---
