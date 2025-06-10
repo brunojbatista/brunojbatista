@@ -6,11 +6,19 @@ Atualmente, trabalho com tecnologias como **Django**, **Flask**, **FastAPI**, **
 
 ---
 
+## 🎓 Formação Acadêmica
+
+🎓 **Universidade Federal de Pernambuco – CIn/UFPE**  
+Bacharelado em Engenharia de Computação no Centro de Informática (CIn) - UFPE
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-black?style=flat-square&logo=angularjs)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
@@ -66,21 +74,10 @@ Atualmente, trabalho com tecnologias como **Django**, **Flask**, **FastAPI**, **
 
 ---
 
-## 🎓 Formação Acadêmica
-
-🎓 **Universidade Federal de Pernambuco – CIn/UFPE**  
-Bacharelado em Engenharia de Computação
-
----
-
-## 📊 GitHub Stats
-
-![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunobatista&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contato
 
 - 📍 Recife – PE, Brasil  
 - 📧 brunojbatista@hotmail.com  
+- 📱 [+55 (81) 9 9929-0698](tel:+5581999290698) — WhatsApp / Telegram  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bjnb)  
+- 📷 [Instagram](https://www.instagram.com/brunojnbatista/)
