@@ -30,7 +30,7 @@ Bacharelado em Engenharia de Computação no Centro de Informática (CIn) - UFPE
 ### ⚖️ Centro de Inovação EDGE — *Full Stack Developer* 
 **Jul 2025 – Presente · Maceió, AL**
 
-- Atuo na manutenção e correção de bugs no sistema da empresa ZUQ Performance, originalmente focado em rastreamento veicular e atualmente expandido para gestão de frotas e roteirização.
+- Atuo na manutenção e correção de bugs no sistema da empresa ZUQ Performance, focado em rastreamento veicular, gestão de frotas e roteirização.
 - Tenho colaborado com a equipe na identificação e resolução de bugs, contribuindo para a continuidade e estabilidade dos serviços.
 
 **🔧 Tecnologias utilizadas:**  
