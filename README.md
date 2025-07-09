@@ -26,8 +26,11 @@ Bacharelado em Engenharia de Computação no Centro de Informática (CIn) - UFPE
 ![GCP](https://img.shields.io/badge/-Google_Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
+---
 
-### ⚖️ Centro de Inovação EDGE — *Full Stack Developer* 
+## 💼 Experiência Profissional
+
+### 💡 Centro de Inovação EDGE — *Full Stack Developer* 
 **Jul 2025 – Presente · Maceió, AL**
 
 - Atuo na manutenção e correção de bugs no sistema da empresa ZUQ Performance, focado em rastreamento veicular, gestão de frotas e roteirização.
@@ -37,8 +40,6 @@ Bacharelado em Engenharia de Computação no Centro de Informática (CIn) - UFPE
 Java · Tomcat · JSF · AngularJS · Docker · Git
 
 ---
-
-## 💼 Experiência Profissional
 
 ### 🏢 MDEL Soluções Industriais — *Full Stack Developer*  
 **Ago 2022 – Jun 2025 · Recife, PE**
