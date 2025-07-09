@@ -69,7 +69,7 @@ Vue.js · Node.js · Firebase · Firestore · Google Cloud Platform · HTML5 · 
 
 ---
 
-### 🏛️ Método Ambiental — *Desenvolvedor Full Stack*  
+### 🏛️ Método Ambiental — *Full Stack Developer*
 **Jan 2021 – Dez 2021 · Recife, PE**
 
 - Desenvolvi e otimizei o portal de licenciamento público da Prefeitura de Jaboatão dos Guararapes, focado no atendimento direto ao cidadão.
