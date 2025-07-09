@@ -37,7 +37,7 @@ Bacharelado em Engenharia de Computação no Centro de Informática (CIn) - UFPE
 - Tenho colaborado com a equipe na identificação e resolução de bugs, contribuindo para a continuidade e estabilidade dos serviços.
 
 **🔧 Tecnologias utilizadas:**  
-Java · Tomcat · JSF · AngularJS · Docker · Git
+Java · Tomcat · JSF · AngularJS · Docker · PostgreSQL · Git
 
 ---
 
