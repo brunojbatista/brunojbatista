@@ -26,12 +26,22 @@ Bacharelado em Engenharia de Computação no Centro de Informática (CIn) - UFPE
 ![GCP](https://img.shields.io/badge/-Google_Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
+
+### ⚖️ Centro de Inovação EDGE — *Full Stack Developer* 
+**Jul 2025 – Presente · Maceió, AL**
+
+- Atuo na manutenção e correção de bugs no sistema da empresa ZUQ Performance, originalmente focado em rastreamento veicular e atualmente expandido para gestão de frotas e roteirização.
+- Tenho colaborado com a equipe na identificação e resolução de bugs, contribuindo para a continuidade e estabilidade dos serviços.
+
+**🔧 Tecnologias utilizadas:**  
+Java · Tomcat · JSF · AngularJS · Docker · Git
+
 ---
 
 ## 💼 Experiência Profissional
 
 ### 🏢 MDEL Soluções Industriais — *Full Stack Developer*  
-**Ago 2022 – Presente · Recife, PE**
+**Ago 2022 – Jun 2025 · Recife, PE**
 
 - Desenvolvi e mantive APIs RESTful robustas com Django REST Framework aplicando princípios SOLID, arquitetura limpa e práticas de segurança (CSRF, XSS, SQL Injection).
 - Modelei e otimizei queries SQL complexas, reduzindo em até 40% o tempo de resposta de endpoints críticos usados em ambiente de produção com milhares de acessos diários.
@@ -41,20 +51,6 @@ Bacharelado em Engenharia de Computação no Centro de Informática (CIn) - UFPE
 
 **🔧 Tecnologias utilizadas:**  
 Python · Django · Django REST Framework · PostgreSQL · AngularJS · Vue.js · Docker · Git · CI/CD · Linux
-
----
-
-### ⚖️ Escritório de Advocacia — *Desenvolvedor Python / RPA*  
-**Ago 2020 – Presente · Recife, PE**
-
-- Concebi e desenvolvi o **LegalAutomation**, sistema completo para gestão de contratos e andamentos jurídicos, promovendo automação de processos manuais e burocráticos.
-- Integrei com APIs externas como Clicksign, DocuSign e Telegram para gestão de assinatura e envio de notificações em tempo real — garantindo confiabilidade e rastreabilidade jurídica.
-- Reduzi o tempo médio de cadastramento de contratos de 4min30s para 38 segundos, aumentando a produtividade da equipe jurídica em mais de 500%.
-- Desenvolvi validadores de dados inteligentes com Pandas, minimizando erros manuais e retrabalho em planilhas extensas.
-- Otimizei a infraestrutura na AWS para garantir disponibilidade contínua, com custos sob controle e operação ininterrupta 24/7.
-
-**🔧 Tecnologias utilizadas:**  
-Python · Pandas · AWS · Docker · Telegram API · Clicksign API · DocuSign API · Excel · Git
 
 ---
 
